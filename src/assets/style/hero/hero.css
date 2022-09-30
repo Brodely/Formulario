@@ -1,0 +1,36 @@
+.hero{
+    margin-top: -50px;
+    height: 650px;
+    padding-top: 160px;
+    padding-left: 60px;
+    background-image: url(../../img/casita.jpg);
+    background-attachment: fixed;
+}
+
+button{
+    font-size: 14px;
+    color: white;
+    padding: 10px 40px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    color: #FF9B9B;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 90px;
+    margin: 15px 0px 30px;
+    line-height: 85px;
+    color: white;
+}
+
+small{
+    color: white;
+    font-size: 18px;
+}

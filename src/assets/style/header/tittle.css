@@ -1,0 +1,15 @@
+.title h1{
+    margin: 13px 0px 0px 60px;
+    font-size: 18px;
+    color: white;
+}
+
+.title h1 span{
+    margin-left: 5px;
+    color:  #1ED760;
+}
+
+.title img{
+    width: 110px;
+    margin: 9px 0px 0px 50px;
+}

@@ -1,0 +1,24 @@
+.column-f{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: repeat(3,66px);
+    gap: 10px 30px;
+}
+
+.spotify-tag{
+    background-color: #C6F35A;
+    margin-top: 35px;
+    display: flex;
+}
+
+.spotify-tag h3{
+    font-size: 50px;
+    margin: 30px 0px 30px 50px;
+    align-content: center;
+
+}
+
+.img input{
+    width: 100%;
+    margin-bottom: -8px;
+}

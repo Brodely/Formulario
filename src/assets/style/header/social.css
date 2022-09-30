@@ -1,0 +1,12 @@
+.social i{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px 10px 0px 10px;
+    text-decoration: none;
+}
+
+.social i:hover{
+    color:  #1ED760;
+    cursor:pointer;
+}
